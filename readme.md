@@ -21,11 +21,8 @@ neural-network-from-scratch/
 │   └── test.csv
 ├── src/               # Source code
 │   └── neural_network.py  # Main neural network implementation
-│   └── utils.py         # Helper functions (e.g., data loading, preprocessing)
-├── notebooks/         # Jupyter Notebooks for experimentation, visualization
-│   └── training_demo.ipynb
-├── tests/             # Unit tests (optional but highly recommended)
-│   └── test_neural_network.py
+│   └── utils.py         # Helper functions (e.g., data loading, preprocessing)        
+├── training_demo.ipynb # Jupyter Notebooks for experimentation, visualization
 ├── README.md          # Project description and instructions
 ├── requirements.txt   # Project dependencies
 └── LICENSE            # License information (e.g., MIT, GPL)
