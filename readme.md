@@ -16,16 +16,15 @@ This repository contains a Python implementation of a neural network built from 
 
 ```
 neural-network-from-scratch/
-├── data/              # Dataset (if small enough to include, otherwise instructions on how to obtain it)
-│   └── train.csv
-│   └── test.csv
+├── data/              # Dataset
+│   └── mnist.csv
 ├── src/               # Source code
 │   └── neural_network.py  # Main neural network implementation
-│   └── utils.py         # Helper functions (e.g., data loading, preprocessing)        
+│   └── utils.py         # Helper functions (e.g., data loading)        
 ├── training_demo.ipynb # Jupyter Notebooks for experimentation, visualization
 ├── README.md          # Project description and instructions
 ├── requirements.txt   # Project dependencies
-└── LICENSE            # License information (e.g., MIT, GPL)
+└── LICENSE            # License information
 ```
 
 ## Getting Started
@@ -40,7 +39,7 @@ neural-network-from-scratch/
 1. Clone the repository:
 
     ```bash
-    git clone [https://github.com/YOUR_USERNAME/YOUR_REPOSITORY_NAME.git](https://github.com/YOUR_USERNAME/YOUR_REPOSITORY_NAME.git)
+    git clone [https://github.com/GiDeCarlo/neural-network-from-scratch](https://github.com/GiDeCarlo/neural-network-from-scratch)
     ```
 
 2. Navigate to the project directory:
