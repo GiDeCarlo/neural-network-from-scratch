@@ -14,20 +14,22 @@ This repository contains a Python implementation of a neural network built from 
 
 ## Project Structure
 
+```
 neural-network-from-scratch/
-    ├── data/              # Dataset (if small enough to include, otherwise instructions on how to obtain it)
-    │   └── train.csv
-    │   └── test.csv
-    ├── src/               # Source code
-    │   └── neural_network.py  # Main neural network implementation
-    │   └── utils.py         # Helper functions (e.g., data loading, preprocessing)
-    ├── notebooks/         # Jupyter Notebooks for experimentation, visualization
-    │   └── training_demo.ipynb
-    ├── tests/             # Unit tests (optional but highly recommended)
-    │   └── test_neural_network.py
-    ├── README.md          # Project description and instructions
-    ├── requirements.txt   # Project dependencies
-    └── LICENSE            # License information (e.g., MIT, GPL)
+├── data/              # Dataset (if small enough to include, otherwise instructions on how to obtain it)
+│   └── train.csv
+│   └── test.csv
+├── src/               # Source code
+│   └── neural_network.py  # Main neural network implementation
+│   └── utils.py         # Helper functions (e.g., data loading, preprocessing)
+├── notebooks/         # Jupyter Notebooks for experimentation, visualization
+│   └── training_demo.ipynb
+├── tests/             # Unit tests (optional but highly recommended)
+│   └── test_neural_network.py
+├── README.md          # Project description and instructions
+├── requirements.txt   # Project dependencies
+└── LICENSE            # License information (e.g., MIT, GPL)
+```
 
 ## Getting Started
 
