@@ -39,7 +39,7 @@ neural-network-from-scratch/
 1. Clone the repository:
 
     ```bash
-    git clone [https://github.com/GiDeCarlo/neural-network-from-scratch](https://github.com/GiDeCarlo/neural-network-from-scratch)
+    git clone https://github.com/GiDeCarlo/neural-network-from-scratch
     ```
 
 2. Navigate to the project directory:
